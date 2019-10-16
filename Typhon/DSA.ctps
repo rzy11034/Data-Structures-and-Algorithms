@@ -1,0 +1,759 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="12"/>
+    <BuildModes Active="Debug"/>
+    <Units>
+      <Unit>
+        <Filename Value="DSA.ppr"/>
+        <FRMtype Value="0"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="1"/>
+        <TopLine Value="65"/>
+        <CursorPos X="21" Y="80"/>
+        <UsageCount Value="200"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="Source\Interfaces\DSA.Interfaces.DataStructure.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="75"/>
+        <CursorPos X="53" Y="87"/>
+        <UsageCount Value="200"/>
+      </Unit>
+      <Unit>
+        <Filename Value="Source\DSA.Main.pas"/>
+        <IsPartOfProject Value="True"/>
+        <CursorPos X="27" Y="15"/>
+        <UsageCount Value="200"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="Source\DSA.Utils.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="2"/>
+        <TopLine Value="387"/>
+        <CursorPos X="1024" Y="415"/>
+        <UsageCount Value="200"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="Source\List_Stack_Queue\DSA.List_Stack_Queue.ArrayList.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="82"/>
+        <CursorPos Y="163"/>
+        <UsageCount Value="205"/>
+      </Unit>
+      <Unit>
+        <Filename Value="Source\List_Stack_Queue\DSA.List_Stack_Queue.ArrayListStack.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="50"/>
+        <CursorPos X="44" Y="118"/>
+        <UsageCount Value="202"/>
+      </Unit>
+      <Unit>
+        <Filename Value="Source\List_Stack_Queue\DSA.List_Stack_Queue.ArrayListQueue.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="112"/>
+        <CursorPos X="31" Y="11"/>
+        <UsageCount Value="200"/>
+      </Unit>
+      <Unit>
+        <Filename Value="Source\LeetCode\DSA.LeetCode._020.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="60"/>
+        <CursorPos X="23" Y="77"/>
+        <UsageCount Value="200"/>
+      </Unit>
+      <Unit>
+        <Filename Value="Source\List_Stack_Queue\DSA.List_Stack_Queue.LoopListQueue.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="31" Y="11"/>
+        <UsageCount Value="200"/>
+      </Unit>
+      <Unit>
+        <Filename Value="Source\List_Stack_Queue\DSA.List_Stack_Queue.QueueCompare.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="31" Y="10"/>
+        <UsageCount Value="204"/>
+      </Unit>
+      <Unit>
+        <Filename Value="Source\List_Stack_Queue\DSA.List_Stack_Queue.LinkedList.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="149"/>
+        <CursorPos Y="162"/>
+        <UsageCount Value="203"/>
+      </Unit>
+      <Unit>
+        <Filename Value="Source\List_Stack_Queue\DSA.List_Stack_Queue.StackCompare.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="31" Y="10"/>
+        <UsageCount Value="201"/>
+      </Unit>
+      <Unit>
+        <Filename Value="Source\List_Stack_Queue\DSA.List_Stack_Queue.LinkedListStack.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="31" Y="11"/>
+        <UsageCount Value="200"/>
+      </Unit>
+      <Unit>
+        <Filename Value="Source\List_Stack_Queue\DSA.List_Stack_Queue.LinkedListQueue.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="31" Y="11"/>
+        <UsageCount Value="200"/>
+      </Unit>
+      <Unit>
+        <Filename Value="Source\LeetCode\DSA.LeetCode._203.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="65"/>
+        <CursorPos X="12" Y="110"/>
+        <UsageCount Value="202"/>
+      </Unit>
+      <Unit>
+        <Filename Value="Source\Tree\DSA.Tree.BST.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="26" Y="13"/>
+        <UsageCount Value="200"/>
+      </Unit>
+      <Unit>
+        <Filename Value="Source\Tree\DSA.Tree.BSTSet.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="31" Y="10"/>
+        <UsageCount Value="200"/>
+      </Unit>
+      <Unit>
+        <Filename Value="Source\Tree\DSA.Tree.LinkedListSet.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="31" Y="10"/>
+        <UsageCount Value="202"/>
+      </Unit>
+      <Unit>
+        <Filename Value="Source\Tree\DSA.Tree.SetCompare.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="19"/>
+        <CursorPos X="54" Y="46"/>
+        <UsageCount Value="201"/>
+      </Unit>
+      <Unit>
+        <Filename Value="Source\LeetCode\DSA.LeetCode._804.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="26" Y="11"/>
+        <UsageCount Value="200"/>
+      </Unit>
+      <Unit>
+        <Filename Value="Source\Tree\DSA.Tree.LinkedListMap.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="5"/>
+        <CursorPos X="32" Y="12"/>
+        <UsageCount Value="200"/>
+      </Unit>
+      <Unit>
+        <Filename Value="Source\Tree\DSA.Tree.BSTMap.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="6"/>
+        <CursorPos X="32" Y="12"/>
+        <UsageCount Value="219"/>
+      </Unit>
+      <Unit>
+        <Filename Value="Source\Tree\DSA.Tree.MapCompare.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="31" Y="10"/>
+        <UsageCount Value="211"/>
+      </Unit>
+      <Unit>
+        <Filename Value="Source\LeetCode\DSA.LeetCode._349.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="11"/>
+        <CursorPos X="26" Y="33"/>
+        <UsageCount Value="228"/>
+      </Unit>
+      <Unit>
+        <Filename Value="Source\LeetCode\DSA.LeetCode._350.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="23"/>
+        <CursorPos X="64" Y="78"/>
+        <UsageCount Value="224"/>
+      </Unit>
+      <Unit>
+        <Filename Value="Source\Tree\DSA.Tree.Heap.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="148"/>
+        <CursorPos X="11" Y="20"/>
+        <UsageCount Value="217"/>
+      </Unit>
+      <Unit>
+        <Filename Value="Source\Tree\DSA.Tree.PriorityQueue.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="16"/>
+        <CursorPos X="32" Y="11"/>
+        <UsageCount Value="207"/>
+      </Unit>
+      <Unit>
+        <Filename Value="Source\LeetCode\DSA.LeetCode._347.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="26"/>
+        <CursorPos X="26" Y="32"/>
+        <UsageCount Value="202"/>
+      </Unit>
+      <Unit>
+        <Filename Value="Source\Tree\DSA.Tree.SegmentTree.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="4"/>
+        <CursorPos X="31" Y="11"/>
+        <UsageCount Value="202"/>
+      </Unit>
+      <Unit>
+        <Filename Value="Source\LeetCode\DSA.LeetCode._303.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="31" Y="10"/>
+        <UsageCount Value="201"/>
+      </Unit>
+      <Unit>
+        <Filename Value="Source\LeetCode\DSA.LeetCode._307.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="73"/>
+        <CursorPos X="31" Y="50"/>
+        <UsageCount Value="200"/>
+      </Unit>
+      <Unit>
+        <Filename Value="Source\LeetCode\DSA.Leetcode._211.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="DSA.LeetCode._211"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="3"/>
+        <CursorPos X="18" Y="5"/>
+        <UsageCount Value="200"/>
+      </Unit>
+      <Unit>
+        <Filename Value="Source\LeetCode\DSA.Leetcode._677.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="50"/>
+        <CursorPos X="84" Y="17"/>
+        <UsageCount Value="200"/>
+      </Unit>
+      <Unit>
+        <Filename Value="Source\Tree\DSA.Tree.Trie.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="26" Y="12"/>
+        <UsageCount Value="200"/>
+      </Unit>
+      <Unit>
+        <Filename Value="Source\Tree\DSA.Tree.UnionFind1.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="31" Y="11"/>
+        <UsageCount Value="200"/>
+      </Unit>
+      <Unit>
+        <Filename Value="Source\Tree\DSA.Tree.UnionFind2.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="31" Y="11"/>
+        <UsageCount Value="200"/>
+      </Unit>
+      <Unit>
+        <Filename Value="Source\Tree\DSA.Tree.UnionFindCompare.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="31" Y="10"/>
+        <UsageCount Value="200"/>
+      </Unit>
+      <Unit>
+        <Filename Value="Source\Tree\DSA.Tree.UnionFind3.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="31" Y="11"/>
+        <UsageCount Value="200"/>
+      </Unit>
+      <Unit>
+        <Filename Value="Source\Tree\DSA.Tree.UnionFind4.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="31" Y="11"/>
+        <UsageCount Value="200"/>
+      </Unit>
+      <Unit>
+        <Filename Value="Source\Tree\DSA.Tree.UnionFind5.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="31" Y="11"/>
+        <UsageCount Value="200"/>
+      </Unit>
+      <Unit>
+        <Filename Value="Source\Tree\DSA.Tree.UnionFind6.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="31" Y="8"/>
+        <UsageCount Value="200"/>
+      </Unit>
+      <Unit>
+        <Filename Value="Source\Tree\DSA.Tree.AVLTree.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="506"/>
+        <CursorPos X="3" Y="10"/>
+        <UsageCount Value="200"/>
+      </Unit>
+      <Unit>
+        <Filename Value="Source\Tree\DSA.Tree.TreeCompare.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="31" Y="14"/>
+        <UsageCount Value="200"/>
+      </Unit>
+      <Unit>
+        <Filename Value="Source\Tree\DSA.Tree.AVLTreeMap.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="31" Y="10"/>
+        <UsageCount Value="200"/>
+      </Unit>
+      <Unit>
+        <Filename Value="Source\Tree\DSA.Tree.AVLTreeSet.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="31" Y="10"/>
+        <UsageCount Value="203"/>
+      </Unit>
+      <Unit>
+        <Filename Value="Source\Tree\DSA.Tree.RBTree.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="31" Y="12"/>
+        <UsageCount Value="202"/>
+      </Unit>
+      <Unit>
+        <Filename Value="Source\LeetCode\DSA.LeetCode._387.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="30" Y="33"/>
+        <UsageCount Value="200"/>
+      </Unit>
+      <Unit>
+        <Filename Value="Source\Hash\DSA.Hash.HashCode.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <UsageCount Value="227"/>
+      </Unit>
+      <Unit>
+        <Filename Value="Source\Hash\DSA.Hash.HashTable.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="31" Y="12"/>
+        <UsageCount Value="218"/>
+      </Unit>
+      <Unit>
+        <Filename Value="Source\Sorts\DSA.Sorts.SelectionSort.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="59"/>
+        <CursorPos X="40" Y="35"/>
+        <UsageCount Value="212"/>
+      </Unit>
+      <Unit>
+        <Filename Value="Source\Sorts\DSA.Sorts.InsertionSort.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="53"/>
+        <CursorPos X="26" Y="10"/>
+        <UsageCount Value="216"/>
+      </Unit>
+      <Unit>
+        <Filename Value="Source\Sorts\DSA.Sorts.BubbleSort.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="7"/>
+        <CursorPos X="26" Y="10"/>
+        <UsageCount Value="213"/>
+      </Unit>
+      <Unit>
+        <Filename Value="Source\Sorts\DSA.Sorts.MergeSort.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="55"/>
+        <CursorPos X="26" Y="11"/>
+        <UsageCount Value="211"/>
+      </Unit>
+      <Unit>
+        <Filename Value="Source\Sorts\DSA.Sorts.QuickSort.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="8"/>
+        <CursorPos X="26" Y="10"/>
+        <UsageCount Value="200"/>
+      </Unit>
+      <Unit>
+        <Filename Value="Source\Sorts\DSA.Sorts.HeapSort.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="8"/>
+        <CursorPos X="26" Y="10"/>
+        <UsageCount Value="202"/>
+      </Unit>
+      <Unit>
+        <Filename Value="Source\Tree\DSA.Tree.IndexHeap.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="11"/>
+        <CursorPos X="59" Y="51"/>
+        <UsageCount Value="200"/>
+      </Unit>
+      <Unit>
+        <Filename Value="Source\Sorts\DSA.Sorts.IndexHeapSort.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="5"/>
+        <CursorPos X="26" Y="10"/>
+        <UsageCount Value="202"/>
+      </Unit>
+      <Unit>
+        <Filename Value="Source\Search\DSA.Search.BinarySearch.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="5"/>
+        <CursorPos X="26" Y="10"/>
+        <UsageCount Value="219"/>
+      </Unit>
+      <Unit>
+        <Filename Value="Source\Graph\DSA.Graph.DenseGraph.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos Y="12"/>
+        <UsageCount Value="213"/>
+      </Unit>
+      <Unit>
+        <Filename Value="Source\Graph\DSA.Graph.SparseGraph.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="31" Y="13"/>
+        <UsageCount Value="201"/>
+      </Unit>
+      <Unit>
+        <Filename Value="Source\Graph\DSA.Graph.Component.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="31" Y="10"/>
+        <UsageCount Value="206"/>
+      </Unit>
+      <Unit>
+        <Filename Value="Source\Graph\DSA.Graph.Path.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="31" Y="10"/>
+        <UsageCount Value="200"/>
+      </Unit>
+      <Unit>
+        <Filename Value="Source\Graph\DSA.Graph.ShortestPath.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="41"/>
+        <CursorPos X="19" Y="47"/>
+        <UsageCount Value="227"/>
+      </Unit>
+      <Unit>
+        <Filename Value="Source\Graph\DSA.Graph.Edge.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="9"/>
+        <CursorPos X="20" Y="35"/>
+        <UsageCount Value="224"/>
+      </Unit>
+      <Unit>
+        <Filename Value="Source\Graph\DSA.Graph.DenseWeightedGraph.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="99"/>
+        <CursorPos Y="111"/>
+        <UsageCount Value="217"/>
+      </Unit>
+      <Unit>
+        <Filename Value="Source\Graph\DSA.Graph.SparseWeightedGraph.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="58"/>
+        <CursorPos X="39" Y="65"/>
+        <UsageCount Value="215"/>
+      </Unit>
+      <Unit>
+        <Filename Value="Source\Graph\DSA.Graph.LazyPrimMST.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="94"/>
+        <CursorPos X="34" Y="116"/>
+        <UsageCount Value="212"/>
+      </Unit>
+      <Unit>
+        <Filename Value="Source\Interfaces\DSA.Interfaces.Comparer.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="11"/>
+        <CursorPos X="56" Y="15"/>
+        <UsageCount Value="206"/>
+      </Unit>
+      <Unit>
+        <Filename Value="Source\Graph\DSA.Graph.PrimMST.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="57"/>
+        <CursorPos X="63" Y="63"/>
+        <UsageCount Value="182"/>
+      </Unit>
+      <Unit>
+        <Filename Value="Source\Graph\DSA.Graph.PrimMstCompare.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="81"/>
+        <CursorPos X="35" Y="112"/>
+        <UsageCount Value="119"/>
+      </Unit>
+      <Unit>
+        <Filename Value="Source\Graph\DSA.Graph.KruskalMST.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="138"/>
+        <CursorPos X="26" Y="162"/>
+        <UsageCount Value="114"/>
+      </Unit>
+      <Unit>
+        <Filename Value="Source\Graph\DSA.Graph.MstCompare.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="101"/>
+        <CursorPos X="60" Y="119"/>
+        <UsageCount Value="112"/>
+      </Unit>
+      <Unit>
+        <Filename Value="Source\Graph\DSA.Graph.Dijkstra.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="3"/>
+        <TopLine Value="66"/>
+        <CursorPos X="60" Y="76"/>
+        <UsageCount Value="101"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="Source\Graph\DSA.Graph.BellmanFord.pas"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <EditorIndex Value="4"/>
+        <TopLine Value="60"/>
+        <CursorPos X="13" Y="76"/>
+        <UsageCount Value="84"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="C:\codetyphon\fpcsrc\packages\rtl-objpas\src\inc\rtti.pp"/>
+        <FRMtype Value="0"/>
+        <UnitName Value="Rtti"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="97"/>
+        <CursorPos X="45" Y="114"/>
+        <UsageCount Value="24"/>
+      </Unit>
+      <Unit>
+        <Filename Value="C:\codetyphon\fpcsrc\packages\rtl-generics\src\generics.collections.pas"/>
+        <FRMtype Value="0"/>
+        <UnitName Value="Generics.Collections"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="107"/>
+        <CursorPos X="37" Y="125"/>
+        <UsageCount Value="2"/>
+      </Unit>
+      <Unit>
+        <Filename Value="C:\codetyphon\fpcsrc\rtl\inc\objpash.inc"/>
+        <FRMtype Value="0"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="220"/>
+        <CursorPos X="33" Y="232"/>
+        <UsageCount Value="4"/>
+      </Unit>
+      <Unit>
+        <Filename Value="C:\codetyphon\fpcsrc\rtl\inc\objpas.inc"/>
+        <FRMtype Value="0"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="754"/>
+        <CursorPos X="9" Y="763"/>
+        <UsageCount Value="4"/>
+      </Unit>
+      <Unit>
+        <Filename Value="C:\codetyphon\fpcsrc\rtl\inc\systemh.inc"/>
+        <FRMtype Value="0"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="415"/>
+        <CursorPos X="18" Y="429"/>
+        <UsageCount Value="2"/>
+      </Unit>
+      <Unit>
+        <Filename Value="C:\codetyphon\fpcsrc\rtl\objpas\sysutils\syshelph.inc"/>
+        <FRMtype Value="0"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="32" Y="4"/>
+        <UsageCount Value="3"/>
+      </Unit>
+    </Units>
+    <JumpHistory Count="30" HistoryIndex="29">
+      <Position1>
+        <Filename Value="Source\Graph\DSA.Graph.BellmanFord.pas"/>
+        <Caret Line="136" TopLine="132"/>
+      </Position1>
+      <Position2>
+        <Filename Value="Source\Graph\DSA.Graph.BellmanFord.pas"/>
+        <Caret Line="142" TopLine="132"/>
+      </Position2>
+      <Position3>
+        <Filename Value="Source\Graph\DSA.Graph.BellmanFord.pas"/>
+        <Caret Line="143" TopLine="132"/>
+      </Position3>
+      <Position4>
+        <Filename Value="Source\Graph\DSA.Graph.BellmanFord.pas"/>
+        <Caret Line="145" TopLine="132"/>
+      </Position4>
+      <Position5>
+        <Filename Value="Source\Graph\DSA.Graph.BellmanFord.pas"/>
+        <Caret Line="146" TopLine="132"/>
+      </Position5>
+      <Position6>
+        <Filename Value="Source\Graph\DSA.Graph.BellmanFord.pas"/>
+        <Caret Line="136" TopLine="132"/>
+      </Position6>
+      <Position7>
+        <Filename Value="Source\Graph\DSA.Graph.BellmanFord.pas"/>
+        <Caret Line="142" TopLine="132"/>
+      </Position7>
+      <Position8>
+        <Filename Value="Source\Graph\DSA.Graph.BellmanFord.pas"/>
+        <Caret Line="143" TopLine="132"/>
+      </Position8>
+      <Position9>
+        <Filename Value="Source\Graph\DSA.Graph.BellmanFord.pas"/>
+        <Caret Line="145" TopLine="132"/>
+      </Position9>
+      <Position10>
+        <Filename Value="Source\Graph\DSA.Graph.BellmanFord.pas"/>
+        <Caret Line="146" TopLine="132"/>
+      </Position10>
+      <Position11>
+        <Filename Value="Source\Graph\DSA.Graph.BellmanFord.pas"/>
+        <Caret Line="136" TopLine="132"/>
+      </Position11>
+      <Position12>
+        <Filename Value="Source\Graph\DSA.Graph.BellmanFord.pas"/>
+        <Caret Line="142" TopLine="132"/>
+      </Position12>
+      <Position13>
+        <Filename Value="Source\Graph\DSA.Graph.BellmanFord.pas"/>
+        <Caret Line="143" TopLine="132"/>
+      </Position13>
+      <Position14>
+        <Filename Value="Source\Graph\DSA.Graph.BellmanFord.pas"/>
+        <Caret Line="145" TopLine="132"/>
+      </Position14>
+      <Position15>
+        <Filename Value="Source\Graph\DSA.Graph.BellmanFord.pas"/>
+        <Caret Line="146" TopLine="132"/>
+      </Position15>
+      <Position16>
+        <Filename Value="Source\Graph\DSA.Graph.BellmanFord.pas"/>
+        <Caret Line="136" TopLine="132"/>
+      </Position16>
+      <Position17>
+        <Filename Value="Source\Graph\DSA.Graph.BellmanFord.pas"/>
+        <Caret Line="133" TopLine="130"/>
+      </Position17>
+      <Position18>
+        <Filename Value="Source\Graph\DSA.Graph.BellmanFord.pas"/>
+        <Caret Line="136" TopLine="130"/>
+      </Position18>
+      <Position19>
+        <Filename Value="Source\Graph\DSA.Graph.BellmanFord.pas"/>
+        <Caret Line="142" TopLine="130"/>
+      </Position19>
+      <Position20>
+        <Filename Value="Source\Graph\DSA.Graph.BellmanFord.pas"/>
+        <Caret Line="143" TopLine="130"/>
+      </Position20>
+      <Position21>
+        <Filename Value="Source\Graph\DSA.Graph.BellmanFord.pas"/>
+        <Caret Line="136" TopLine="130"/>
+      </Position21>
+      <Position22>
+        <Filename Value="Source\Graph\DSA.Graph.BellmanFord.pas"/>
+        <Caret Line="142" TopLine="130"/>
+      </Position22>
+      <Position23>
+        <Filename Value="Source\Graph\DSA.Graph.BellmanFord.pas"/>
+        <Caret Line="143" TopLine="130"/>
+      </Position23>
+      <Position24>
+        <Filename Value="Source\Graph\DSA.Graph.BellmanFord.pas"/>
+        <Caret Line="145" TopLine="130"/>
+      </Position24>
+      <Position25>
+        <Filename Value="Source\Graph\DSA.Graph.BellmanFord.pas"/>
+        <Caret Line="146" TopLine="137"/>
+      </Position25>
+      <Position26>
+        <Filename Value="Source\Graph\DSA.Graph.BellmanFord.pas"/>
+        <Caret Line="136" TopLine="127"/>
+      </Position26>
+      <Position27>
+        <Filename Value="Source\Graph\DSA.Graph.BellmanFord.pas"/>
+        <Caret Line="142" TopLine="127"/>
+      </Position27>
+      <Position28>
+        <Filename Value="Source\Graph\DSA.Graph.BellmanFord.pas"/>
+        <Caret Line="143" TopLine="128"/>
+      </Position28>
+      <Position29>
+        <Filename Value="Source\Graph\DSA.Graph.BellmanFord.pas"/>
+        <Caret Line="145" TopLine="130"/>
+      </Position29>
+      <Position30>
+        <Filename Value="Source\Graph\DSA.Graph.BellmanFord.pas"/>
+        <Caret Line="74" Column="53" TopLine="60"/>
+      </Position30>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes Count="0" ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+  <Debugging>
+    <Watches Count="1">
+      <Item1>
+        <Expression Value="__from"/>
+      </Item1>
+    </Watches>
+  </Debugging>
+</CONFIG>

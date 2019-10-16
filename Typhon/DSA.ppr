@@ -1,0 +1,92 @@
+﻿program DSA;
+
+{$mode objfpc}{$H+}
+
+uses {$IFDEF UNIX} {$IFDEF UseCThreads}
+  cthreads, {$ENDIF} {$ENDIF}
+  Classes,
+  SysUtils,
+  DSA.Main,
+  DSA.Utils,
+  DSA.Interfaces.Comparer,
+  DSA.Interfaces.DataStructure,
+  DSA.Graph.DenseGraph,
+  DSA.Graph.SparseGraph,
+  DSA.Graph.Component,
+  DSA.Graph.Path,
+  DSA.Graph.ShortestPath,
+  DSA.Graph.Edge,
+  DSA.Graph.DenseWeightedGraph,
+  DSA.Graph.SparseWeightedGraph,
+  DSA.Graph.LazyPrimMST,
+  DSA.Graph.PrimMST,
+  DSA.Graph.PrimMstCompare,
+  DSA.Graph.KruskalMST,
+  DSA.Graph.MstCompare,
+  DSA.Graph.Dijkstra, DSA.Graph.BellmanFord,
+  DSA.Search.BinarySearch,
+  DSA.Sorts.SelectionSort,
+  DSA.Sorts.InsertionSort,
+  DSA.Sorts.BubbleSort,
+  DSA.Sorts.MergeSort,
+  DSA.Sorts.QuickSort,
+  DSA.Sorts.HeapSort,
+  DSA.Sorts.IndexHeapSort,
+  DSA.Hash.HashCode,
+  DSA.Hash.HashTable,
+  DSA.Tree.BST,
+  DSA.Tree.BSTMap,
+  DSA.Tree.BSTSet,
+  DSA.Tree.LinkedListMap,
+  DSA.Tree.LinkedListSet,
+  DSA.Tree.MapCompare,
+  DSA.Tree.SetCompare,
+  DSA.Tree.Heap,
+  DSA.Tree.PriorityQueue,
+  DSA.Tree.SegmentTree,
+  DSA.Tree.Trie,
+  DSA.Tree.UnionFind1,
+  DSA.Tree.UnionFind2,
+  DSA.Tree.UnionFindCompare,
+  DSA.Tree.UnionFind3,
+  DSA.Tree.UnionFind4,
+  DSA.Tree.UnionFind5,
+  DSA.Tree.UnionFind6,
+  DSA.Tree.AVLTree,
+  DSA.Tree.TreeCompare,
+  DSA.Tree.AVLTreeMap,
+  DSA.Tree.AVLTreeSet,
+  DSA.Tree.RBTree,
+  DSA.Tree.IndexHeap,
+  DSA.List_Stack_Queue.ArrayList,
+  DSA.List_Stack_Queue.ArrayListQueue,
+  DSA.List_Stack_Queue.ArrayListStack,
+  DSA.List_Stack_Queue.LinkedList,
+  DSA.List_Stack_Queue.LinkedListQueue,
+  DSA.List_Stack_Queue.LinkedListStack,
+  DSA.List_Stack_Queue.LoopListQueue,
+  DSA.List_Stack_Queue.QueueCompare,
+  DSA.List_Stack_Queue.StackCompare,
+  DSA.LeetCode._020,
+  DSA.LeetCode._203,
+  DSA.LeetCode._804,
+  DSA.LeetCode._349,
+  DSA.LeetCode._350,
+  DSA.LeetCode._347,
+  DSA.LeetCode._303,
+  DSA.LeetCode._307,
+  DSA.LeetCode._211,
+  DSA.Leetcode._677,
+  DSA.LeetCode._387;
+
+begin
+  try
+    Run;
+    TDSAUtils.DrawLine;
+    Writeln(END_OF_PROGRAM_EN);
+    Readln;
+  except
+    on E: Exception do
+      Writeln(E.ClassName, ': ', E.Message);
+  end;
+end.
